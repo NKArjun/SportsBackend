@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/a78e7341-55fa-4a32-8bad-00ca2d1ccdd3/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/SportsService",
+    "appService.deploySubpath": ""
+}

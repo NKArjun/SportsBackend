@@ -1,0 +1,47 @@
+[
+    {
+        "userId": "U101",
+        "firstName": "Arjun",
+        "lastName": "NK",
+        "password": "arjun",
+        "phoneNo": 9585980236,
+        "notifications":[{
+            "joinUserId":"U102",
+            "teamCode":"Team102",
+            "notification":"Join"
+        }
+        ],
+        "teams":[],
+        "email": "arjunnk@gmail.com"
+    },
+    {
+        "userId": "U102",
+        "firstName": "Balaji",
+        "lastName": "SS",
+        "password": "balaji",
+        "phoneNo": 9876543310,
+        "notifications":[{
+            "joinUserId":"U102",
+            "teamCode":"Team102",
+            "notification":"Join"
+        }
+        ],
+        "teams":[],
+        "email": "balaji@gmail.com"
+    },
+    {
+        "userId": "U103",
+        "firstName": "Pop",
+        "lastName": "periya",
+        "password": "pop",
+        "phoneNo": 8763545212,
+        "notifications":[{
+            "joinUserId":"U102",
+            "teamCode":"Team102",
+            "notification":"Join"
+        }
+        ],
+        "teams":[],
+        "email": "pop@gmail.com"
+    }
+]

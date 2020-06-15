@@ -1,0 +1,6 @@
+{
+    "teamCode":"Team101",
+    "sport":"cricket",
+    "playersMailId":["arjun@gmail.com","balaji@gmail.com","pop@gmail.com"],
+    "playersName":["arjun","balaji","pop"]
+}
